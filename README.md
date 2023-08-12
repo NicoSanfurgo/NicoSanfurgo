@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Sanfurgo</h1>
-<h3 align="center">Soy un Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer Jr</h3>
 
 - 💬 Ask me about **html, css, javascript y reactjs**
 
